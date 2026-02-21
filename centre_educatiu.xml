@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias del Centro Educativo</title>
+    <link>https://www.aulabalear.org/</link>
+    <description>Actualidad y avisos</description>
+    <language>es</language>
+
+    <item>
+      <title>Sortida a la fundació Joan Miró</title>
+      <description>Se realitzara una sortida a la fundació Joan Miró amb els infants de 5 anys Ai B</description>
+      <link>https://www.aulabalear.org/sortida-a-la-fundacio-joan-miro-5-anys/</link>
+      <pubDate>Sun, 16 Nov 2025 11:14:03 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Sortida a Es Baluard</title>
+      <description>Lálumnnat de 1r Ai B Primaria anirem a visitar el Museu del Balear de Palma</description>
+      <link>https://www.aulabalear.org/sortida-a-es-baluard-1r-ep/</link>
+      <pubDate>Fri, 16 Jan 2026 10:16:47 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
